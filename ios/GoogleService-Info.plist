@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>765875220430-snotjkfu96vaqn08be0vg3kpvteq29k5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.765875220430-snotjkfu96vaqn08be0vg3kpvteq29k5</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>765875220430-7boc383a30b9e1fv7r2864qs666f62fi.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC0Hzs97oguHbuJHNy0VIMsdskOTQXduQk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>765875220430</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Masafood.MasaStoreOwner</string>
+	<key>PROJECT_ID</key>
+	<string>masafood-d4f78</string>
+	<key>STORAGE_BUCKET</key>
+	<string>masafood-d4f78.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:765875220430:ios:5d3c905bf9950f0f8e859f</string>
+</dict>
+</plist>

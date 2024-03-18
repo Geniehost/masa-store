@@ -1,0 +1,174 @@
+{
+  "project_info": {
+    "project_number": "765875220430",
+    "project_id": "masafood-d4f78",
+    "storage_bucket": "masafood-d4f78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765875220430:android:4b229bc74b57b4308e859f",
+        "android_client_info": {
+          "package_name": "com.masafood.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765875220430-spo2oojl6cas8neu2rab1alk8qb86qbr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.masafood.user",
+            "certificate_hash": "a4d157706911b5acfbf72abbad8daa6b4aacaf6c"
+          }
+        },
+        {
+          "client_id": "765875220430-pje311i3rmeu8gl5f82caa499hr578hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFUQRlosPDo9WLO9IICv6qhE2yckmhYtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765875220430-fm3omp2m442fbn6im9mhkdg73hvn1se3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "765875220430-9i8skiooqt3uoc9l5l9riadqpgo1k525.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Masafood.gr.MasaDriver",
+                "app_store_id": "6446048810"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765875220430:android:744dda69d26dcc2f8e859f",
+        "android_client_info": {
+          "package_name": "com.masafood_mart_deliveryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765875220430-pje311i3rmeu8gl5f82caa499hr578hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFUQRlosPDo9WLO9IICv6qhE2yckmhYtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765875220430-fm3omp2m442fbn6im9mhkdg73hvn1se3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "765875220430-9i8skiooqt3uoc9l5l9riadqpgo1k525.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Masafood.gr.MasaDriver",
+                "app_store_id": "6446048810"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765875220430:android:9fc7eb9af6d9e0488e859f",
+        "android_client_info": {
+          "package_name": "com.masafood_mart_storeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765875220430-pje311i3rmeu8gl5f82caa499hr578hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFUQRlosPDo9WLO9IICv6qhE2yckmhYtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765875220430-fm3omp2m442fbn6im9mhkdg73hvn1se3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "765875220430-9i8skiooqt3uoc9l5l9riadqpgo1k525.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Masafood.gr.MasaDriver",
+                "app_store_id": "6446048810"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765875220430:android:045f051f234dbd3d8e859f",
+        "android_client_info": {
+          "package_name": "com.masafood_mart_userapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765875220430-7boc383a30b9e1fv7r2864qs666f62fi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.masafood_mart_userapp",
+            "certificate_hash": "a4d157706911b5acfbf72abbad8daa6b4aacaf6c"
+          }
+        },
+        {
+          "client_id": "765875220430-pje311i3rmeu8gl5f82caa499hr578hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFUQRlosPDo9WLO9IICv6qhE2yckmhYtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765875220430-fm3omp2m442fbn6im9mhkdg73hvn1se3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "765875220430-9i8skiooqt3uoc9l5l9riadqpgo1k525.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Masafood.gr.MasaDriver",
+                "app_store_id": "6446048810"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
